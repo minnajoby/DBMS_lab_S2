@@ -1,0 +1,1 @@
+ALTER TABLE Employees ADD COLUMN Manager_ID INT;
