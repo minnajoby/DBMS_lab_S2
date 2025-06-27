@@ -1,0 +1,2 @@
+SET AUTOCOMMIT = 0; 
+SAVEPOINT Check_Updates;
